@@ -87,7 +87,9 @@ Tugas Akhir Pemrograman Perangkat Mobile
 
 
 
+
 ............... Script Code MainActivity ...............
+
 
 
 package com.sulas.Biodata;
