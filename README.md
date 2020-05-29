@@ -87,13 +87,11 @@ Tugas Akhir Pemrograman Perangkat Mobile
 
 
 
-............... MainActivity ...............
+............... Script Code MainActivity ...............
 
 
 package com.sulas.Biodata;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.DatePickerDialog;
 import android.os.Bundle;
 import android.view.View;
@@ -103,7 +101,6 @@ import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
-
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
@@ -116,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
     private int mTahun;
     private int mBulan;
     private int mHari;
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
